@@ -27,5 +27,14 @@ jobs:
     - name: Verify installed dependencies
       run: npm ls jest
 
+    - name: Check Node.js version
+      run: node --version
+
+    - name: Check npm version
+      run: npm --version
+
+    - name: Check Jest version
+      run: npm ls jest
+
     - name: Run tests
       run: npm test

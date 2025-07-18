@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/ankitjindal9404/Calculator#readme",
   "description": "",
-  "dependencies": {
+  "devDependencies": {
     "jest": "^30.0.4"
   }
 }

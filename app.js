@@ -1,4 +1,4 @@
-// calculator.js
+// app.js
 class Calculator {
     add(a, b) {
         return a + b;
